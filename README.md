@@ -9,3 +9,8 @@ Regular updates will be done to the main overview when completing the 5 projects
 The portfolio of evidence will be compiled from these 5 projects.
 ## _Click on the links below to access the projects:_
 <a href = "https://github.com/users/WillemHeyneke/projects/3"> PROJECT 1 </a>
+
+
+## **Repository context and integration**
+
+![Diagram projects](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/ad38cc49-d5e3-420f-887b-6545e0f4150f)
