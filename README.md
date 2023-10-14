@@ -1,3 +1,4 @@
+![sixt com-10-business-keys-to-success-pro-success](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/eec69bb4-8f12-48df-91df-3b9c13391151)
 # **Repository Overview**
 ---
 # **Projects:**
