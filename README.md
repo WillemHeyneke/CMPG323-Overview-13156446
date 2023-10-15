@@ -15,8 +15,8 @@ The portfolio of evidence will be compiled from these 5 projects.
 
 ![Diagram projects](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/0db920a2-67df-4c37-9f29-705627da60fb)
 
-## **Branching Strategy
+## **Branching Strategy**
 I will be implementing the Git Flow branching strategy, which involves creating specific branches such as 'master' for stable releases, 'develop' for ongoing development, feature branches for new features, release branches for final testing, and hotfix branches for immediate production fixes. This structured approach provides clear guidelines for managing different stages of development and ensures a systematic workflow for my projects.
 
-## **.gitignore Strategy
+## **.gitignore Strategy**
 I will incorporate a '.gitignore' file in my project repository that will specify exclusion patterns for unnecessary files, such as logs and temporary files, ensuring Git's version control system disregards them. I will make sure this file is customized to the projects, so Git only pays attention to that what is important. It is important to keep consistancy for this to work well. Any other information that I don't want to share will be excluded by the use of '.gitignore'.
