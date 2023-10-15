@@ -23,3 +23,5 @@ I will incorporate a '.gitignore' file in my project repository that will specif
 
 ## **Storage of Credentials and Sensitive Information**
 Sensitive data like credentials will never be directly included in the code. Encrypted storage for sensitive information should be used to ensure secure usage in workflows whithout exposing the actual data. Proper access restrictions should be practiced at all times. All sensitive information and credentials should be handled with extreme caution to maintain security. Never include sensitive data directly into code or public repositories. Make use of configuration files that are listed in the '.gitignore' ensuring they are not tracked by Git.
+
+## **References:**
