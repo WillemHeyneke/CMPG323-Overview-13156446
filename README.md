@@ -21,5 +21,5 @@ I will be implementing the Git Flow branching strategy, which involves creating 
 ## **.gitignore Strategy**
 I will incorporate a '.gitignore' file in my project repository that will specify exclusion patterns for unnecessary files, such as logs and temporary files, ensuring Git's version control system disregards them. I will make sure this file is customized to the projects, so Git only pays attention to that what is important. It is important to keep consistancy for this to work well. Any other information, sensitive information and credentials, that I don't want to share will be excluded by the use of '.gitignore'.
 
-## **Storage of Credentials and Sensitive Information
+## **Storage of Credentials and Sensitive Information**
 Sensitive data like credentials will never be directly included in the code. Encrypted storage for sensitive information should be used to ensure secure usage in workflows whithout exposing the actual data. Proper access restrictions should be practiced at all times. All sensitive information and credentials should be handled with extreme caution to maintain security. Never include sensitive data directly into code or public repositories. Make use of configuration files that are listed in the '.gitignore' ensuring they are not tracked by Git.
