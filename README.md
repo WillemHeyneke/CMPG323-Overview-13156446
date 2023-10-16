@@ -25,5 +25,24 @@ I will incorporate a '.gitignore' file in my project repository that will specif
 Sensitive data like credentials will never be directly included in the code. Encrypted storage for sensitive information should be used to ensure secure usage in workflows whithout exposing the actual data. Proper access restrictions should be practiced at all times. All sensitive information and credentials should be handled with extreme caution to maintain security. Never include sensitive data directly into code or public repositories. Make use of configuration files that are listed in the '.gitignore' ensuring they are not tracked by Git.
 
 ## **References:**
-Softchris (no date) Introduction to version control with git - training, Training | Microsoft Learn. 
+
+Build community-driven software projects on github - training, Training | Microsoft Learn. 
+Available at: https://docs.microsoft.com/en-gb/learn/paths/build-community-driven-projects-github/ (Date Accessed: 22 September 2023).
+
+Genman Solutions (no date) Agile Kanban: Kanban for software development teams | Udemy, Udemy. 
+Available at: https://www.udemy.com/course/agile-kanban/ (Date Accessed: 22 August 2023).
+
+Introduction to version control with git - training, Training | Microsoft Learn. 
 Available at: https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/ (Date Accessed: 22 September 2023).
+
+Portilla, J. (no date) Master Git and github in 5 Days: Go from zero to hero | udemy, Udemy. 
+Available at: https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero/ (Date Accessed: 19 August 2023).
+
+Stashchuk, B. (no date) Git &amp; GitHub for beginners - master git and github (2023) | udemy, Udemy. 
+Available at: https://www.udemy.com/course/git-and-github-crash-course/ (Date Accessed: 30 July 2023).
+
+## *****![The Git and GitHub for Beginners - July 30 2023 - W Heyneke](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/bf4d4cc7-1bbc-4a0b-a095-7c03d5f8b6b9)
+![Udemy - Jose Portilla - Master Git and Github in 5 Days](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/54d0d799-747f-4531-af66-3bc21c726443)
+![Udemy - Genman Solutions - Agile Kanban_Kanban for software development Teams - Aug 22 2023](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/b9de8474-cba9-4331-9f04-7c39e51f41f0)
+
+
