@@ -25,3 +25,5 @@ I will incorporate a '.gitignore' file in my project repository that will specif
 Sensitive data like credentials will never be directly included in the code. Encrypted storage for sensitive information should be used to ensure secure usage in workflows whithout exposing the actual data. Proper access restrictions should be practiced at all times. All sensitive information and credentials should be handled with extreme caution to maintain security. Never include sensitive data directly into code or public repositories. Make use of configuration files that are listed in the '.gitignore' ensuring they are not tracked by Git.
 
 ## **References:**
+Softchris (no date) Introduction to version control with git - training, Training | Microsoft Learn. 
+Available at: https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/ (Date Accessed: 22 September 2023).
