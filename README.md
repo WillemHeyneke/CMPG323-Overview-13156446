@@ -41,7 +41,7 @@ Available at: https://www.udemy.com/course/master-git-and-github-in-5-days-go-fr
 Stashchuk, B. (no date) Git &amp; GitHub for beginners - master git and github (2023) | udemy, Udemy. 
 Available at: https://www.udemy.com/course/git-and-github-crash-course/ (Date Accessed: 30 July 2023).
 
-## *****![The Git and GitHub for Beginners - July 30 2023 - W Heyneke](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/bf4d4cc7-1bbc-4a0b-a095-7c03d5f8b6b9)
+<img src="https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/bf4d4cc7-1bbc-4a0b-a095-7c03d5f8b6b9" width="100" height="100">
 ![Udemy - Jose Portilla - Master Git and Github in 5 Days](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/54d0d799-747f-4531-af66-3bc21c726443)
 ![Udemy - Genman Solutions - Agile Kanban_Kanban for software development Teams - Aug 22 2023](https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/b9de8474-cba9-4331-9f04-7c39e51f41f0)
 
