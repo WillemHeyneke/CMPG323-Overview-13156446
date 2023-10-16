@@ -29,16 +29,16 @@ Sensitive data like credentials will never be directly included in the code. Enc
 Build community-driven software projects on github - training, Training | Microsoft Learn. 
 Available at: https://docs.microsoft.com/en-gb/learn/paths/build-community-driven-projects-github/ (Date Accessed: 22 September 2023).
 
-Genman Solutions (no date) Agile Kanban: Kanban for software development teams | Udemy, Udemy. 
+Genman Solutions (2023) Agile Kanban: Kanban for software development teams | Udemy, Udemy. 
 Available at: https://www.udemy.com/course/agile-kanban/ (Date Accessed: 22 August 2023).
 
 Introduction to version control with git - training, Training | Microsoft Learn. 
 Available at: https://docs.microsoft.com/en-us/learn/paths/intro-to-vc-git/ (Date Accessed: 22 September 2023).
 
-Portilla, J. (no date) Master Git and github in 5 Days: Go from zero to hero | udemy, Udemy. 
+Portilla, J. (2023) Master Git and github in 5 Days: Go from zero to hero | udemy, Udemy. 
 Available at: https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero/ (Date Accessed: 19 August 2023).
 
-Stashchuk, B. (no date) Git &amp; GitHub for beginners - master git and github (2023) | udemy, Udemy. 
+Stashchuk, B. (2023) Git &amp; GitHub for beginners - master git and github (2023) | udemy, Udemy. 
 Available at: https://www.udemy.com/course/git-and-github-crash-course/ (Date Accessed: 30 July 2023).
 
 <img src="https://github.com/WillemHeyneke/CMPG323-Overview-13156446/assets/145063933/bf4d4cc7-1bbc-4a0b-a095-7c03d5f8b6b9" width="400" height="400">
